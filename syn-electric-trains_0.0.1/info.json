@@ -1,0 +1,10 @@
+{
+	"name":"syn-electric-trains",
+	"author":"Synfax",
+	"version":"0.0.1",
+	"title":"Syn's Electric Trains",
+	"description":"",
+	"homepage":"nothing here!",
+	"factorio_version":"0.14",
+	"dependencies": ["base >= 0.14.0"]
+}
